@@ -1,0 +1,7 @@
+오늘 배운것
+viewModel 사용에 대한 아이디어
+Portrait Preview 아이디어
+
+내일 해볼것
+Preview에 viewModel을 사용한다. Streaming, Decoding을 viewModel로 옮긴다.
+MotionLayout 공부
