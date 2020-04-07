@@ -1,0 +1,7 @@
+오늘 배운것
+프로젝트에 viewModel 적용 확대
+static fragment 제거
+fragment간 데이터 공융에 livedata 사용
+
+내일 해볼것
+Activity를 framgment로 변경
